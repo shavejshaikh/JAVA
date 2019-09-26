@@ -2,7 +2,7 @@ package session1;
 import java.awt.*;
 import java.applet.*;
 
-public class Li extends Applet
+public class rect extends Applet
 {
 
 	public void paint(Graphics g)
