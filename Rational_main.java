@@ -36,7 +36,7 @@ class Rational
 }
 
 
-public class Main
+public class Rational_main
 {
 
 	public static void main(String[] args) 
